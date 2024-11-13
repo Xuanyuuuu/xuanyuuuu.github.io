@@ -1,0 +1,87 @@
+h2{
+    color:rgb(42, 93, 134);
+    margin-bottom: 10px;
+    margin: auto;
+  }
+
+h3{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size:medium;
+  }
+  
+.content{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 40px 0;  
+}
+
+.content p{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+ol{
+    margin-top: 5px;
+}
+
+li{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 0px;
+    padding: 0px;
+  }
+
+.img-refers{
+    color:dimgrey;
+    margin-top: 10px !important;
+    font-style: italic;
+}
+
+.dim_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 20px;
+    margin: auto;
+    padding-top: 0px;
+}
+
+.img_text_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.img_text_container p{
+    margin-left: 0px;
+}
+.img-text{
+    text-align: center;
+    font-style: italic;
+    color:steelblue;
+}
+.fish{
+    width: 120px;
+    height:auto;
+    margin-left: 0px;
+}
+.fish_dims{
+    width:320px;
+    height: auto;
+}
+
+.flowimg{
+    width:900px;
+    height: auto;
+    margin: auto;
+}

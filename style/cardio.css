@@ -4,3 +4,12 @@
     margin: auto;
     margin-top: 30px;
 }
+
+@media(max-width: 900px){
+    .flowimg{
+        width:100%;
+        height: auto;
+        margin: auto;
+        margin-top: 30px;
+    }
+  } 

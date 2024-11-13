@@ -4,3 +4,12 @@
     height: auto;
     margin-top: 40px;
 }
+
+@media(max-width: 900px){
+    .mouse-img{
+        margin: auto;
+        width: 280px;
+        height: auto;
+        margin-top: 40px;
+    }
+  } 
